@@ -1,1 +1,2 @@
 Git practice
+git commit -a -m "commit message" can commit without staging but it can only be used on exsisting file not new file.
